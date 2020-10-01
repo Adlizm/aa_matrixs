@@ -12,3 +12,7 @@
   
 #### Relatório
 	Contém algumas tabelas e gráficos e minhas conclusões a respeito da implementação dos algoritmos estudados.
+
+####  Link vídeo explicativo:
+	https://youtu.be/vjxfMEseWaw
+
